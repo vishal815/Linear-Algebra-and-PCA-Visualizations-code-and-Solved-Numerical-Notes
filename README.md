@@ -1,6 +1,7 @@
 # Linear-Algebra-and-PCA-Visualizations-code-and-Solved-Numerical-Notes
 Explore Linear Algebra &amp; PCA. Python PCA visualizations for dimensionality reduction. Solved 2x2 &amp; 3x3 matrix problems for practical understanding. Ideal for learners &amp; professionals. Strengthen your math skills today!
-
+## Code link
+https://github.com/vishal815/Linear-Algebra-and-PCA-Visualizations-code-and-Solved-Numerical-Notes/blob/main/PCA_dimention_reduction.ipynb
 
 ![pca](https://github.com/vishal815/Linear-Algebra-and-PCA-Visualizations-code-and-Solved-Numerical-Notes/assets/83393190/713306fa-e59c-4415-97e8-fab7f3ceefd4)
 
